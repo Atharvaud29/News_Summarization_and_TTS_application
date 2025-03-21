@@ -1,0 +1,7 @@
+fastapi #building APIs
+uvicorn #ASGI web server implementation for Python.
+streamlit
+beautifulsoup4 #Screen-scraping library
+requests #Python HTTP for Humans.
+transformers
+gTTs #Python lib & CLI tool to interface with Google Translate text-to-speech API
